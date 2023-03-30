@@ -1,4 +1,4 @@
-# sysfore-Test
+#Git Installation in CentOs 7
 Installing Git on CentOS 7
 Follow these steps to install the latest Git version on your CentOS 7 system:
 
